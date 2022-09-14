@@ -1,6 +1,3 @@
-import React from 'react';
-import WorkImg from '../assets/workImg.jpeg';
-import realEstate from '../assets/realestate.jpg';
 import farkle from '../assets/farkle.png'
 import digitalBuilding from '../assets/digitalBuilding.png'
 import canoe from '../assets/canoe.png'
