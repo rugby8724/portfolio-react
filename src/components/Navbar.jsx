@@ -104,6 +104,8 @@ const Navbar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/in/jeremiah-wise-cpa-78910368/'
+              target="_blank"
+              rel='noreferrer noopener'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -112,6 +114,8 @@ const Navbar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/rugby8724'
+              target="_blank"
+              rel='noreferrer noopener'
             >
               Github <FaGithub size={30} />
             </a>
@@ -125,6 +129,8 @@ const Navbar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://docs.google.com/document/d/15eDTQmlbM6SVubQsOursFapsyevfpmbQ/edit?usp=sharing&ouid=110053196488298573076&rtpof=true&sd=true'
+              target="_blank"
+              rel='noreferrer noopener'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
