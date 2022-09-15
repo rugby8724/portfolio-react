@@ -92,7 +92,7 @@ const Work = () => {
           >
             <div >
               <span className='text-base font-bold text-white tracking-wider'>
-                Canoe is a traveling site that lets customers see future flights and track current flights
+                Canoe is a traveling site that lets customers see future flights and track current flights.
                 This was a group project built by two other students and myself. 
                 My main resposiblites were fixing bugs, refactoring code, and adding a firebase login.
               </span>
@@ -104,7 +104,8 @@ const Work = () => {
             <div>
               <span className='text-base font-bold text-white tracking-wider'>
                 Farkle is a lite-version of the game farkle. 
-                This was a solo project. I built farkle using react and redux toolkit
+                This was a solo project. The project was built with 
+                react and reduxtoolkit
               </span>
             </div>
           </div>
