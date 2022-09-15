@@ -6,6 +6,7 @@ import {
   FaLinkedin,
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
+import { BsFillPersonLinesFill } from 'react-icons/bs';
 import jLogo from '../assets/jLogo.png';
 import { Link } from 'react-scroll';
 
@@ -119,6 +120,14 @@ const Navbar = () => {
             <Link to='contact' smooth={true} duration={500} className='flex justify-between items-center w-full text-gray-300'>
               Email <HiOutlineMail size={30} />
             </Link>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
+            <a
+              className='flex justify-between items-center w-full text-gray-300'
+              href='https://docs.google.com/document/d/15eDTQmlbM6SVubQsOursFapsyevfpmbQ/edit?usp=sharing&ouid=110053196488298573076&rtpof=true&sd=true'
+            >
+              Resume <BsFillPersonLinesFill size={30} />
+            </a>
           </li>
         </ul>
       </div>
