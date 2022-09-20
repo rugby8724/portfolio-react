@@ -78,10 +78,10 @@ const Projects = () => {
           >
             <div >
               <span className='text-base font-bold text-white tracking-wider'>
-                Digital Buildings helps a company track their commerical clients
+                Digital Buildings helps a company track their commercial clients' 
                 hvac systems. <br/>
                 Another student and myself built this project using the 
-                MERN stack. My main responiblities were managing the backend, database,
+                MERN stack. My main responsibilities were managing the backend, database,
                 and global state.
               </span>
             </div>
@@ -94,7 +94,7 @@ const Projects = () => {
               <span className='text-base font-bold text-white tracking-wider'>
                 Canoe is a traveling site that lets customers see future flights and track current flights.
                 This was a group project built by two other students and myself. 
-                My main resposiblites were fixing bugs, refactoring code, and adding a firebase login.
+                My main responsibilities were fixing bugs, refactoring code, and adding a firebase login.
               </span>
             </div>
           </div>
