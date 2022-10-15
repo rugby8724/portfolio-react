@@ -27,7 +27,12 @@ const Projects = () => {
                 MERN Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+              <a href='https://digitalbuildingtwoamigos.herokuapp.com/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Demo
+                  </button>
+                </a>
+                <a href='https://github.com/terencesmithcodes/digitalbuildings1'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -45,7 +50,7 @@ const Projects = () => {
                 JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/rugby8724/Canoe'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -61,10 +66,10 @@ const Projects = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                React Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/rugby8724/farkle-react'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
