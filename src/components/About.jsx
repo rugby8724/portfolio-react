@@ -13,7 +13,7 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Jeremiah, a CPA looking to make a career change into the world of programing </p>
+              <p>Hi. I'm Jeremiah, a CPA looking to make a career change into the world of programming </p>
             </div>
             <div>
               <p>I am passionate about learning new things and a few years ago a friend introduced me to programming. After building small projects in 2021 I decided to dedicate more time to programming and really enjoyed the process. During that time my mentor encouraged me to pursue a career in software development. I took his advice and started the Digital Crafts course in 2022. Digital Crafts has been an amazing tool to help get me out of my comfort zone and push me from just being a hobby developer to having the skills needed for a career as a developer. I know there is still a lot to learn, and I'm looking forward to growing as a developer with a great company.
